@@ -1,0 +1,25 @@
+.nav-wrapper{
+    background-color: darkmagenta;
+    margin-bottom: 10px;
+    margin-left: 0;
+    height: 75px;
+}
+
+.companyinfo{
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+    font-size: x-large;
+    font-style: italic;
+}
+
+.home{
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    font-size: x-large;
+}
+
+nav{
+    display: list-item;
+}
